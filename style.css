@@ -1,0 +1,10 @@
+#pages a {
+
+    padding: 2px;
+}
+
+.active {
+    cursor: auto;
+    text-decoration: none;
+    color: black;
+}
